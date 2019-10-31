@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_home"
+        android:title="@string/label_action_home" />
+
+    <item android:id="@+id/action_favorite"
+        android:title="@string/label_action_home" />
+
+    <item android:id="@+id/action_payment"
+        android:title="@string/label_action_home" />
+</menu>

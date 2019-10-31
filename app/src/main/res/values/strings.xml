@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Music Albums</string>
+    <string name="label_action_home">Home</string>
 </resources>
